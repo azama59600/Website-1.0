@@ -1,4 +1,14 @@
-.nav{
-  background-color: #000000;
-  overflow: hidden;
+.top-NavBar {
+    display: inline-block;
+    text-align: center;
+}
+
+.bottom-NavBar {
+    margin-top: 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.img-center{
+    float: left;
 }
