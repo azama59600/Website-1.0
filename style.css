@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .top-NavBar {
     display: inline-block;
     text-align: center;
@@ -15,19 +14,3 @@
 .img-center{
     float: left;
 }
-=======
-.top-NavBar {
-    display: inline-block;
-    text-align: center;
-}
-
-.bottom-NavBar {
-    margin-top: 50px;
-    display: inline-block;
-    text-align: center;
-}
-
-.img-center{
-    float: left;
-}
->>>>>>> 72e213c863919a024dffabae56bba168da3e5bd1
