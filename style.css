@@ -1,3 +1,24 @@
+/* ======BOOTSTRAP NAVBAR COLOR CHANGE======*/
+.navbar-custom {
+    background-color: #000000;
+}
+/* change the brand and text color */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: rgba(255,255,255,.8);
+}
+/* change the link color */
+.navbar-custom .navbar-nav .nav-link {
+    color: rgba(255,255,255,.5);
+}
+/* change the color of active or hovered links */
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #ffffff;
+}
+
+
+/* ====== ALLOWS 2 NAVBAR ======*/
 .top-NavBar {
     display: inline-block;
     text-align: center;
@@ -7,10 +28,10 @@
     margin-top: 50px;
     display: inline-block;
     text-align: center;
-
-    transition:
 }
 
-.img-center{
-    float: left;
+
+/* ===== FONTS ===== */
+#montserrat-font{
+    font-family: 'Roboto Condensed', sans-serif;
 }
